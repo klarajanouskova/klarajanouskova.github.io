@@ -21,10 +21,7 @@
 title: Klara Janouskova
 email: klara.janou@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Welcome to my personal website! I am a computer vision master's student at CTU in Prague, Czech Republic.
-  I am interested in computer vision and machine learning in general and I have been working in 
-  the Visual Recognition Group since the very start of my university studies. This site will mostly feature news
-  and posts about my research and other activities.
+  Klara Janouskova, 2022
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: klaaracz
