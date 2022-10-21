@@ -10,8 +10,8 @@ Hi!
 <img src="/doc/current.jpg" width="200" style="float: right;" />
 <!-- ![profile photo]({{ site.baseurl }}/doc/current.jpeg =100x;") -->
 
-I am a computer vision master's student at CTU in Prague, Czech Republic.
-I am interested in computer vision and machine learning in general and I have been working at the Visual Recognition Group at my univesity, supervised by professor Jiri Matas.
+I am a computer vision master's student at the Czech Technical University (CTU) in Prague, Czech Republic.
+I am interested in computer vision and machine learning in general and I have been working at the Visual Recognition Group of CTU, supervised by professor Jiri Matas.
 
 My research mostly focuses on learning with limited supervision, currently image segmentation. Previously, I worked on scene-text detection and recognition and other document-analysis related topics.
 
