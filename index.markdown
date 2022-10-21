@@ -15,7 +15,7 @@ I am interested in computer vision and machine learning in general and I have be
 
 My research mostly focuses on learning with limited supervision, currently image segmentation. Previously, I worked on scene-text detection and recognition and other document-analysis related topics.
 
-Currently, I am in Haifa, doing an intenrship at the Technion with Chaim Baskin.
+Currently, I am in Haifa, doing an internship at the Technion with dr Chaim Baskin.
 
 Previously, I interned at IBM Research Zurich and the CVC at UAB.
 
