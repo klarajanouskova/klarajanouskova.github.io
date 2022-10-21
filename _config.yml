@@ -18,24 +18,42 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
+
+author:
+  name: Klara Janouskova
+  email: "klara.janou@gmail.com"
 title: Klara Janouskova
-email: klara.janou@gmail.com
+# email: klara.janou@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Klara Janouskova, 2022
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: klaaracz
-github_username:  klarajanouskova
+
+
+minima:
+  social_links:
+    twitter: klaaracz
+    linkedin: klára-janoušková-280198159
+    google_scholar_id: AMQpoa0AAAAJ
+    github:  klarajanouskova
+
+# twitter_username: klaaracz
+# github_username:  klarajanouskova
+# linkedin_username: klára-janoušková-280198159
+# google_scholar_id: AMQpoa0AAAAJ
 
 # Build settings
-theme: minima
+plugins:
+  - jekyll-remote-theme
+
+remote_theme: jekyll/minima
 
 # other theme candidates: https://pages-themes.github.io/cayman/
 plugins:
   - jekyll-feed
 
-header_pages:
-  - about.markdown  
+# header_pages:
+  # - about.markdown  
 
 google_analytics: G-2HYQ186Y8H
 
