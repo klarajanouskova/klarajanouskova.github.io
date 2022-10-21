@@ -23,6 +23,9 @@ CV: [CV]({{ site.baseurl }}/doc/cv.pdf)
 
 ***
 
+## News
+**21/10/22:** I am attending ECCV 2022 in Tel Aviv, let me know if you want to meet!
+
 ## Publications
 
 **Model-Assisted Labeling via Explainability for Visual Inspection of Civil Infrastructures**
