@@ -23,6 +23,9 @@ CV: [CV]({{ site.baseurl }}/doc/cv.pdf)
 ***
 
 ## News
+**16/11/22:** I was awarded the Josef Hlavka Award by The Foundation of Josef, Marie and Zdeňka Hlávka, the oldest Czech foundation which supports outstanding students and graduates of Czech public universities and young talented employees of the Czech Academy of Sciences.
+[http://www.hlavkovanadace.cz/cinnost_2022.php](http://www.hlavkovanadace.cz/cinnost_2022.php)
+
 **24/10/22:** We got the Best Paper Award for our work Model-Assisted Labeling via Explainability for Visual Inspection of Civil Infrastructures!
 
 **21/10/22:** I am attending ECCV 2022 in Tel Aviv, let me know if you want to meet!
