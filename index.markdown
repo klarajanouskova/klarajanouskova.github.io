@@ -11,9 +11,9 @@ Hi!
 <!-- ![profile photo]({{ site.baseurl }}/doc/current.jpeg =100x;") -->
 
 I am a computer vision master's student at the Czech Technical University in Prague (CTU), Czech Republic.
-I am interested in computer vision and machine learning in general and I have been working at the Visual Recognition Group (VRG) of CTU, supervised by professor [Jiri Matas](https://scholar.google.com/citations?user=EJCNY6QAAAAJ&hl=en).
+I am interested in computer vision and machine learning in general and I have been working at the Visual Recognition Group (VRG) of CTU, supervised by professor [Jiri Matas](https://scholar.google.com/citations?user=EJCNY6QAAAAJ&hl=en){:target="_blank"}.
 
-My research mostly focuses on learning with limited supervision, most recently in the context of image segmentation. At the moment, I am working on my master's thesis on the topic of test-time training, co-advised by Jiri Matas and Chaim Baskin. Previously, I worked on scene-text detection and recognition and other document-analysis related topics and on model-assisted lanelling for visual inspection of bridges.
+My research mostly focuses on learning with limited supervision, most recently in the context of image segmentation and test-time adaptation. At the moment, I am working on my master's thesis on the topic of test-time training, co-advised by Jiri Matas and Chaim Baskin. Previously, I worked on scene-text detection and recognition and other document-analysis related topics and on model-assisted labelling for visual inspection of bridges.
 
 Apart from VRG, I interned at the Technion ([Chaim Baskin](https://scholar.google.co.il/citations?user=lfWCxJYAAAAJ&hl=en){:target="_blank"}, [Alex Bronstein](https://scholar.google.co.il/citations?user=lafKN0sAAAAJ&hl=en){:target="_blank"}), IBM Research Zurich ([Mattia Rigotti](https://scholar.google.co.il/citations?hl=en&user=TmHt7CwAAAAJ&view_op=list_works&sortby=pubdate){:target="_blank"}, [Ioana Giurgiu](https://scholar.google.co.il/citations?hl=en&user=2NI-034AAAAJ){:target="_blank"}, [Cristiano Malossi](https://scholar.google.co.il/citations?hl=en&user=OSEugosAAAAJ){:target="_blank"}) and the CVC at UAB ([Dimosthenis Karatzas](https://scholar.google.co.il/citations?user=xASEtrUAAAAJ&hl=en){:target="_blank"}, [Lluis Gomez](https://scholar.google.co.il/citations?user=U5DQ99QAAAAJ&hl=en){:target="_blank"}).
 
@@ -23,8 +23,7 @@ CV: [CV]({{ site.baseurl }}/doc/cv.pdf)
 ***
 
 ## News
-**16/11/22:** I was awarded the Josef Hlavka Award by The Foundation of Josef, Marie and Zdeňka Hlávka, the oldest Czech foundation which supports outstanding students and graduates of Czech public universities and young talented employees of the Czech Academy of Sciences.
-[http://www.hlavkovanadace.cz/cinnost_2022.php](http://www.hlavkovanadace.cz/cinnost_2022.php)
+**16/11/22:** I was awarded the Josef Hlavka Award by The Foundation of Josef, Marie and Zdeňka Hlávka, the oldest Czech foundation which supports outstanding students and graduates.
 
 **24/10/22:** We got the Best Paper Award for our work Model-Assisted Labeling via Explainability for Visual Inspection of Civil Infrastructures!
 
