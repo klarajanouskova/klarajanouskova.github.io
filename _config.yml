@@ -51,13 +51,13 @@ minima:
 
 # Build settings
 plugins:
-  - jekyll-remote-theme
-
-remote_theme: jekyll/minima
+  # - jekyll-remote-theme
+  - jekyll-feed
+  - jekyll-seo-tag
 
 # other theme candidates: https://pages-themes.github.io/cayman/
-plugins:
-  - jekyll-feed
+# remote_theme: jekyll/minima
+theme: minima
 
 # header_pages:
   # - about.markdown  

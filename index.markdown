@@ -17,7 +17,11 @@ My research mostly focuses on learning with limited supervision, most recently i
 Apart from VRG, I interned at the Technion ([Chaim Baskin](https://scholar.google.co.il/citations?user=lfWCxJYAAAAJ&hl=en){:target="_blank"}, [Alex Bronstein](https://scholar.google.co.il/citations?user=lafKN0sAAAAJ&hl=en){:target="_blank"}), IBM Research Zurich ([Mattia Rigotti](https://scholar.google.co.il/citations?hl=en&user=TmHt7CwAAAAJ&view_op=list_works&sortby=pubdate){:target="_blank"}, [Ioana Giurgiu](https://scholar.google.co.il/citations?hl=en&user=2NI-034AAAAJ){:target="_blank"}, [Cristiano Malossi](https://scholar.google.co.il/citations?hl=en&user=OSEugosAAAAJ){:target="_blank"}) and the CVC at UAB ([Dimosthenis Karatzas](https://scholar.google.co.il/citations?user=xASEtrUAAAAJ&hl=en){:target="_blank"}, [Lluis Gomez](https://scholar.google.co.il/citations?user=U5DQ99QAAAAJ&hl=en){:target="_blank"}).
 
 
-CV: [CV]({{ site.baseurl }}/doc/cv.pdf)
+CV: [PDF]({{ site.baseurl }}/doc/cv.pdf)
+
+<!-- <div class="social-links">
+    {%- include social.html -%}
+</div> -->
 
 ***
 
