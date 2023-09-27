@@ -27,7 +27,7 @@ CV: [PDF]({{ site.baseurl }}/doc/cv.pdf)
 
 ## News
 
-**15/9/23:** I will be attending ICCV 2023 in Paris, let me know if you want to meet!
+**15/9/23:** I will be attending ICCV 2023 in Paris, let me know if you want to talk!
 
 **1/7/23:** I have started a PhD in computer vision.
 
@@ -41,19 +41,35 @@ CV: [PDF]({{ site.baseurl }}/doc/cv.pdf)
 
 ## Publications
 
-**Model-Assisted Labeling via Explainability for Visual Inspection of Civil Infrastructures**
 
-*Klara Janouskova, Mattia Rigotti, Ioana Giurgiu, Cristiano Malossi*
+* **Single Image Test-Time Adaptation for Segmentation**
 
-ECCV 2022, Computer Vision for Civil and Infrastructure Engineering Workshop (Best Paper Award)
+    *Klara Janouskova, Tamir Shor, Chaim Baskin, Jiri Matas*
 
-Paper: [https://arxiv.org/abs/2209.11159](https://arxiv.org/abs/2209.11159)
+    Arxiv pre-print
 
-**Text Recognition - Real World Data and Where to Find Them**
+    Paper: [https://arxiv.org/abs/2309.14052](https://arxiv.org/abs/2309.14052)
 
-*Klára Janoušková, Jiri Matas, Lluis Gomez, Dimosthenis Karatzas*
 
-ICPR2020
+* **Towards Workflows for the Use of AI Foundation Models in Visual Inspection Applications**
 
-Paper: [https://arxiv.org/abs/2007.03098](https://arxiv.org/abs/2007.03098)
+    *Mattia Rigotti, Diego Antognini, Roy Assaf, Kagan Bakirci, Thomas Frick, Ioana Giurgiu, Klára Janoušková, Filip Janicki, Husam Jubran, Cristiano Malossi, Alexandru Meterez, Florian Scheidegger*
+
+    EUROSTRUCT 2023
+
+* **Model-Assisted Labeling via Explainability for Visual Inspection of Civil Infrastructures**
+
+    *Klara Janouskova, Mattia Rigotti, Ioana Giurgiu, Cristiano Malossi*
+
+    ECCV 2022, Computer Vision for Civil and Infrastructure Engineering Workshop (Best Paper Award)
+
+    Paper: [https://arxiv.org/abs/2209.11159](https://arxiv.org/abs/2209.11159)
+
+* **Text Recognition - Real World Data and Where to Find Them**
+
+    *Klára Janoušková, Jiri Matas, Lluis Gomez, Dimosthenis Karatzas*
+
+    ICPR2020
+
+    Paper: [https://arxiv.org/abs/2007.03098](https://arxiv.org/abs/2007.03098)
 
