@@ -1,14 +1,14 @@
 - title: "**Segment to Recognize Robustly - Enhancing Recognition by Image Decomposition**"
   authors: "**Klara Janouskova**, Cristian Gavrus, Jiri Matas"
-  venue: "**arXiv**"
+  venue: "arXiv"
   links:
-    - type: "PDF"
-      url: "coming_soon"
+    # - type: "PDF"
+    #   url: "coming_soon"
   image: "/assets/publications/s2r2.png"
 
 - title: "**FungiTastic: A Multi-modal Dataset and Benchmark for Image Categorization**"
   authors: "Lukas Picek, **Klara Janouskova**, Milan Sulc, Jiri Matas"
-  venue: "**arXiv**"
+  venue: "arXiv"
   links:
     - type: "PDF"
       url: "https://arxiv.org/abs/2408.13632"
@@ -16,7 +16,7 @@
 
 - title: "**Single Image Test-Time Adaptation for Segmentation**"
   authors: "**Klara Janouskova**, Tamir Shor, Chaim Baskin, Jiri Matas"
-  venue: "**TMLR 2024**"
+  venue: "TMLR 2024"
   links:
     - type: "PDF"
       url: "https://arxiv.org/abs/2309.14052"
@@ -26,7 +26,7 @@
 
 - title: "**Towards Workflows for the Use of AI Foundation Models in Visual Inspection Applications**"
   authors: "Mattia Rigotti, Diego Antognini, Roy Assaf, Kagan Bakirci, Thomas Frick, Ioana Giurgiu, **Klára Janoušková**, Filip Janicki, Husam Jubran, Cristiano Malossi, Alexandru Meterez, Florian Scheidegger"
-  venue: "**EUROSTRUCT 2023**"
+  venue: "EUROSTRUCT 2023"
   links: 
     - type: "PDF"
       url: "https://onlinelibrary.wiley.com/doi/full/10.1002/cepa.2141"
@@ -34,7 +34,7 @@
 
 - title: "**Model-Assisted Labeling via Explainability for Visual Inspection of Civil Infrastructures**"
   authors: "**Klara Janouskova**, Mattia Rigotti, Ioana Giurgiu, Cristiano Malossi"
-  venue: "**ECCV 2022, Computer Vision for Civil and Infrastructure Engineering Workshop (Best Paper Award)**"
+  venue: "ECCV 2022, Computer Vision for Civil and Infrastructure Engineering Workshop (Best Paper Award)"
   links:
     - type: "PDF"
       url: "https://arxiv.org/abs/2209.11159"
@@ -42,7 +42,7 @@
 
 - title: "**Text Recognition - Real World Data and Where to Find Them**"
   authors: "**Klára Janoušková**, Jiri Matas, Lluis Gomez, Dimosthenis Karatzas"
-  venue: "**ICPR2020**"
+  venue: "ICPR2020"
   links:
     - type: "PDF"
       url: "https://arxiv.org/abs/2007.03098"

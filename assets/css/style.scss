@@ -4,6 +4,11 @@
 
 $content-width: 70%;
 
+h2 {
+  color: #075707; /* Forest Green */
+}
+
+
 @import
   "minima/skins/{{ site.minima.skin | default: 'classic' }}",
   "minima/initialize";
