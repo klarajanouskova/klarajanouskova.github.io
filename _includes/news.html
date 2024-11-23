@@ -1,0 +1,73 @@
+<div id="news-section">
+  {% assign latest_news = site.data.news | sort: "date" | reverse | slice: 0, 3 %}
+  {% assign older_news = site.data.news | sort: "date" | reverse | slice: 3, site.data.news.size %}
+
+  <ul>
+    <!-- Display the latest 5 news items -->
+    {% for news in latest_news %}
+    <li>
+      <strong>{{ news.date | date: "%B %d, %Y" }}:</strong> {{ news.content }}
+    </li>
+    {% endfor %}
+  </ul>
+
+  <!-- Collapsible section for older news -->
+  {% if older_news.size > 0 %}
+  <button id="toggle-news" onclick="toggleOlderNews()">
+    <span id="toggle-arrow">▼</span> <span id="toggle-text">Show older</span>
+  </button>
+  
+  <ul id="older-news" style="display: none;">
+    {% for news in older_news %}
+    <li>
+      <strong>{{ news.date | date: "%B %d, %Y" }}:</strong> {{ news.content }}
+    </li>
+    {% endfor %}
+  </ul>
+  {% endif %}
+</div>
+
+
+<style>
+
+#toggle-news {
+  margin: 10px 0;
+  padding: 8px 12px;
+  background-color: transparent; /* Transparent background */
+  color: rgb(0, 0, 0); /* Keep text color visible */
+  border: 1px solid #ccc; /* Add a subtle border for visibility */
+  border-radius: 4px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  gap: 5px; /* Space between arrow and text */
+  transition: all 0.3s ease; /* Smooth transition for hover effects */
+}
+
+#toggle-news:hover {
+  background-color: rgba(0, 0, 0, 0.05); /* Light background on hover */
+  border-color: rgba(0, 0, 0, 0.3); /* Slightly darker border */
+}
+
+
+</style>
+
+<script>
+    function toggleOlderNews() {
+      const olderNews = document.getElementById("older-news");
+      const arrow = document.getElementById("toggle-arrow");
+      const text = document.getElementById("toggle-text");
+  
+      if (olderNews.style.display === "none") {
+        olderNews.style.display = "block";
+        arrow.textContent = "▲"; // Change arrow to upward
+        text.textContent = "Hide Older"; // Update text
+      } else {
+        olderNews.style.display = "none";
+        arrow.textContent = "▼"; // Change arrow to downward
+        text.textContent = "Show Older"; // Update text
+      }
+    }
+  </script>
+  
+  

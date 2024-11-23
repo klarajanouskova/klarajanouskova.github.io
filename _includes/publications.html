@@ -1,0 +1,84 @@
+<div class="publications">
+    {% for pub in site.data.publications %}
+    <div class="publication">
+      <div class="pub-content">
+        <!-- Image Section -->
+        <div class="pub-image">
+          <img src="{{ pub.image }}" alt="{{ pub.title | markdownify }}">
+        </div>
+        <!-- Text Section -->
+        <div class="pub-text">
+            <h3>{{ pub.title | markdownify }}</h3>
+            <p>
+                {{ pub.authors | markdownify }}
+            </p>
+            <br>
+            <p>
+              <strong>Venue:</strong> {{ pub.venue | markdownify }}
+            </p>
+            <div class="links">
+              {% for link in pub.links %}
+              <a href="{{ link.url }}" target="_blank" class="btn">{{ link.type }}</a>
+              {% endfor %}
+            </div>
+          </div>
+      </div>
+    </div>
+    {% endfor %}
+  </div>
+  
+
+  <style>
+    .publication {
+      margin: 20px 0;
+      padding: 10px;
+      border: 1px solid #ddd;
+      border-radius: 8px;
+      max-width: 1000px;
+    }
+    .pub-content {
+      display: flex;
+      flex-direction: row;
+      gap: 20px;
+      align-items: flex-start;
+    }
+    .pub-image {
+      flex: 0 0 300px;
+      max-width: 300px;
+    }
+    .pub-image img {
+      width: 100%;
+      height: auto;
+      border-radius: 8px;
+    }
+    .pub-text {
+      flex: 1;
+    }
+    .pub-text span, .pub-text p {
+    display: inline; /* Ensure inline behavior */
+    margin: 0; /* Remove default margin that might add spacing */
+    }
+    .links {
+      margin-top: 10px;
+    }
+    .btn {
+      margin: 5px;
+      padding: 5px 10px;
+      background-color: #ebeff5;
+      color: rgb(0, 0, 0);
+      text-decoration: none;
+      border-radius: 4px;
+    }
+    .btn:hover {
+      background-color: #e9e6e6;
+    }
+    .btn:visited {
+        color: rgb(0, 0, 0);
+    }
+    .inline {
+        display: inline;
+        margin: 0; /* Optional: remove default margin for tighter spacing */
+    }
+
+  </style>
+  

@@ -25,7 +25,7 @@ author:
 title: Klara Janouskova 
 # email: klara.janou@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Klara Janouskova, 2023
+  Klara Janouskova, 2024
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -83,3 +83,9 @@ google_analytics: G-2HYQ186Y8H
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+
+# enables markdown in html for easier formatting
+markdown: kramdown
+kramdown:
+  input: GFM
