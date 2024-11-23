@@ -11,8 +11,10 @@ Hi!
 
 I am a second year computer vision and machine learning PhD student at the Czech Technical University in Prague (CTU), Czech Republic. My supervisor is professor [Jiri Matas](https://scholar.google.com/citations?user=EJCNY6QAAAAJ&hl=en){:target="_blank"}.
 
-The main topic of my PhD  explores leveraging recent advances in zero-shot segmentation to improve recognition accuracy and robustness. I am also working on image classification with vision-language models with my students and on fine-grained classification of fungi.
+The main topic of my PhD  explores leveraging recent advances in zero-shot segmentation to improve recognition accuracy and robustness. I am also working on fine-grained classification of fungi.
 Previously, my research focused on learning with limited supervision in the following areas: image segmentation and test-time adaptation, model-assisted labelling for visual inspection of bridges and scene-text detection and recognition.
+
+I am teaching labs for the 'Machine learning and patter recognition' course at CTU and I co-supervise multiple students.
 
 During my undergraduate studies, I interned at 
 the Technion ([Chaim Baskin](https://scholar.google.co.il/citations?user=lfWCxJYAAAAJ&hl=en){:target="_blank"}, [Alex Bronstein](https://scholar.google.co.il/citations?user=lafKN0sAAAAJ&hl=en){:target="_blank"}), 

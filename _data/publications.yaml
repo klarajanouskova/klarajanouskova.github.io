@@ -2,6 +2,8 @@
   authors: "**Klara Janouskova**, Cristian Gavrus, Jiri Matas"
   venue: "arXiv"
   links:
+    - type: "WWW"
+      url: "https://klarajanouskova.github.io/S2R2/"
     # - type: "PDF"
     #   url: "coming_soon"
   image: "/assets/publications/s2r2.png"
@@ -12,6 +14,8 @@
   links:
     - type: "PDF"
       url: "https://arxiv.org/abs/2408.13632"
+    - type: "GitHub"
+      url: "https://github.com/bohemianvra/FungiTastic/"
   image: "/assets/publications/fungi.png"
 
 - title: "**Single Image Test-Time Adaptation for Segmentation**"

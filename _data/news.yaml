@@ -1,9 +1,12 @@
 # YYYY-MM-DD
 - date: 2024-11-02
-  content: "I was selected as one of the top reviewers for NeuRIPS2024!"
+  content: "I was selected as one of the top reviewers for NeuRIPS2024"
 
 - date: 2023-09-15
   content: "I will be attending ICCV 2023 in Paris, let me know if you want to talk!"
+
+- date: 2023-04-10
+  content: "Our paper 'Single Image Test-Time Adaptation for Segmentation' was accepted by TLMR."
 
 - date: 2023-07-01
   content: "I have started a PhD in computer vision."

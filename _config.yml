@@ -39,11 +39,11 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 minima:
   social_links:
-    # - { platform: bluesky, user_url: "https://bsky.app/profile/klara-cz.bsky.social" }
+    - { platform: google_scholar, user_url: "https://scholar.google.com/citations?user=AMQpoa0AAAAJ&hl=cs" }
     - { platform: twitter, user_url: "https://twitter.com/klaaracz" }
     - { platform: github, user_url: "https://github.com/klarajanouskova/" }
     - { platform: linkedin, user_url: "https://www.linkedin.com/in/klára-janoušková-280198159/" }
-    - { platform: google_scholar, user_url: "https://scholar.google.com/citations?user=AMQpoa0AAAAJ&hl=cs" }
+    # - { platform: bluesky, user_url: "https://bsky.app/profile/klara-cz.bsky.social" }
 
 # Build settings
 plugins:
